@@ -155,4 +155,6 @@ for x, song in enumerate(final_rankings):
 #! Algorithm is boring - make it so that matches are based on an even number of aboves and belows
 #! Algorithm Confliction
 
+#* Random Update Test
+
 
