@@ -57,7 +57,7 @@ def check_rank(songs):
     return False
 
 #* USE THIS LIST TO INPUT SONGS FOR TESTING
-songs_list = []
+songs_list = ['Telltale - The Walkding Dead', 'Red Dead Redemption 2', 'Trials', 'Pokemon Games', 'Watch Dogs', 'Elden Ring', 'Terraria', 'Minecraft', 'Halo 4', 'Skate', 'Mario Kart', 'Outlast', 'The Last of Us', 'Fallout 4', 'Prime Fortnite']
 random.shuffle(songs_list)
 
 songs = []
